@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh;
+  background-color: #386FA4;
+  min-width: 450px;
+  position: sticky;
+  top:0;
+  position: -webkit-sticky;
+}
+
+.element {
+  margin: 20px;
+  max-height: 30vh;
+  min-height: 200px;
+  text-align: center;
+  background-color: #B8D8D8;
+}
