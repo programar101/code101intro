@@ -1,0 +1,8 @@
+.backendImg  img {
+  max-width: 40vw;
+}
+
+.backendImg {
+  display: flex;
+  justify-content: center;
+}

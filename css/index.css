@@ -9,3 +9,7 @@ html {
   line-height: 1.4;
   font-family: "Noto Sans CJK HK";
 }
+
+.rightPane {
+  width: 100%;
+}
