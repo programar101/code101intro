@@ -4,4 +4,4 @@ Mini demo del stack MERN.
 
 para ejecutar: `npm run start`
 
-https://thehighestprimenumber.github.io/code101intro/
+https://programar101.github.io/code101intro/
